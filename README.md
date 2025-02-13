@@ -1,6 +1,6 @@
-# Projeto DIO_Conta Banco - Banco DaniDigital!
+# Projeto DIO_Conta Banco
 
-Este é um projeto desenvolvido para simular um sistema bancário simples, com uma interação básica em um banco fictício.
+Este é um projeto desenvolvido para simular um sistema bancário simples, com uma interação básica em um banco fictício. O DaniDigital!
 
 ## O projeto permite ao usuário: 
 
